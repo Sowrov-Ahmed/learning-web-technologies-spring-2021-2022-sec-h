@@ -11,9 +11,9 @@
 			<td valign="top" width="20%">
 				<b>Links</b><br/>
 				<br/>
-				<a href="https://page1.html">Page-1</a><br/>
+				<a href="page1.html">Page-1</a><br/>
 				<br/>
-				<a href="https://page2.html">Page-2</a>
+				<a href="page2.html">Page-2</a>
 			</td> 		
 			<td valign="top" width="60%">
 				<h2>Page-2</h2><br/>
