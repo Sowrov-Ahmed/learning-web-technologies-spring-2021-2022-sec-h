@@ -2,13 +2,13 @@
 
 if(isset($_REQUEST['submit']))
 {
-    $name = $_REQUEST['name'];
-    if($name == ""){
-        echo "null value...";
+    $degree = $_REQUEST['degree'];
+    if($degree == ""){
+        echo "Value is NULL!";
     }
     
     else{
-        echo $name;
+        echo $degree;
     }	
 }
 
